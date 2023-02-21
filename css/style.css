@@ -6,3 +6,11 @@ body{
     height: 41px;
     width: 590px;
 }
+.tack_result{
+    list-style: none;
+  
+}.compelted{
+    opacity: .5;
+}.delete{
+    display: none;
+}
